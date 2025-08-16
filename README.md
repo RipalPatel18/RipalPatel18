@@ -24,7 +24,7 @@
 
 ---
 
-## 📊 GitHub Status
+## 📊 GitHub Stats
 ![Ripal's GitHub stats](https://github-readme-stats.vercel.app/api?username=RipalPatel18&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RipalPatel18&layout=compact&theme=tokyonight)  
 
