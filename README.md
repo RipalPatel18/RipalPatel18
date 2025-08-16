@@ -7,10 +7,10 @@
 ---
 
 ## 🌟 About Me
-💻 I'm currently learning Web Development.
-🎯 Interested in web development and problem solving
-🌱 Constantly exploring new tools and frameworks to improve productivity
-📚 Love to contribute to open-source projects and learn from the community
+- 💻 I'm currently learning Web Development.
+- 🎯 Interested in web development and problem solving
+- 🌱 Constantly exploring new tools and frameworks to improve productivity
+- 📚 Love to contribute to open-source projects and learn from the community
 
 ---
 
