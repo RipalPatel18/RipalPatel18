@@ -1,6 +1,6 @@
-# Hi there 👋, I'm Ripal  
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Ripal  
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+
 
 🚀 **Full-Stack Developer** | 💻 **MySQL & ASP.NET Core** | 🎨 **Creative CSS Animations**
 
