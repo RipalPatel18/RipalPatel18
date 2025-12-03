@@ -30,13 +30,6 @@
 ### 🔹 Databases & Tools  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)  
 
-
----
-
-## 📊 GitHub Stats
-![Ripal's GitHub stats](https://github-readme-stats.vercel.app/api?username=RipalPatel18&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RipalPatel18&layout=compact&theme=tokyonight)  
-
 ---
 
 ## 🔗 Connect with Me
