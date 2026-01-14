@@ -7,10 +7,10 @@
 ---
 
 ## 🌟 About Me
-- 💻 I'm currently learning Web Development.
-- 🎯 Interested in web development and problem solving
-- 🌱 Constantly exploring new tools and frameworks to improve productivity
-- 📚 Love to contribute to open-source projects and learn from the community
+- I'm currently learning Web Development.
+- Interested in web development and problem solving
+- Constantly exploring new tools and frameworks to improve productivity
+- Love to contribute to open-source projects and learn from the community
 
 ---
 
@@ -35,9 +35,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patel-ripal/) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RipalPatel18)  
 
----
-
-## 👀 Profile Visitors
-![Visitor Count](https://komarev.com/ghpvc/?username=RipalPatel18&style=for-the-badge)
 
 ✨ *Thanks for visiting my profile!* ✨
